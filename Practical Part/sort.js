@@ -28,6 +28,6 @@ function sort(input) {
 }
 
 
-//console.log(sort('A11a4'));
-//console.log(sort('abCA1da')); 
+console.log(sort('A11a4'));
+console.log(sort('abCA1da')); 
 //console.log(sort(''));
